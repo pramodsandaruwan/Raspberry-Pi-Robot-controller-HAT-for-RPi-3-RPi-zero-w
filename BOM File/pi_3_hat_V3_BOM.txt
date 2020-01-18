@@ -1,0 +1,37 @@
+Partlist exported from C:/Users/pramod/Music/my file/Py3_hat/V3/pi_3_hat_V3.sch at 5/25/2019 8:16 PM
+
+Part   Value           Device          Package                 Description                                                                         BOM     MF    MPN        OC_FARNELL OC_NEWARK SPICEPREFIX
+C1     104             C-USC1206       C1206                   CAPACITOR, American symbol                                                                                                        C          
+C2     104             C-USC1206       C1206                   CAPACITOR, American symbol                                                                                                        C          
+C3     100uF           CPOL-USE2.5-6   E2,5-6                  POLARIZED CAPACITOR, American symbol                                                                                                         
+C4     104             C-USC1206       C1206                   CAPACITOR, American symbol                                                                                                        C          
+GPIO   22-23-2091      22-23-2091      22-23-2091              .100" (2.54mm) Center Header - 9 Pin                                                        MOLEX 22-23-2091 1756827    56H0450              
+I2C    22-23-2041      22-23-2041      22-23-2041              .100" (2.54mm) Center Header - 4 Pin                                                        MOLEX 22-23-2041 1462920    38C0355              
+IC1    ULN2003AD       ULN2003AD       SO16                    DRIVER ARRAY                                                                                                                                 
+IC2    LD117AS12TR     LD117AS12TR     SOT223                  Low drop fixed and adjustable positive voltage regulators 1 A                                                                                
+J                      PINHD-1X3       1X03                    PIN HEADER                                                                                                                                   
+JP1                    HEADER-3X04     3X04                                                                                                                                                                 
+LED                    LEDSMT1206      1206                    LED                                                                                                                                          
+LED1   RGBLED5050      RGBLED5050      RGBLED5050              For 5050 RGB LEDs, the order of the LEDs may vary from one manufacturer to another!                                                          
+POWER  22-23-2021      22-23-2021      22-23-2021              .100" (2.54mm) Center Header - 2 Pin                                                        MOLEX 22-23-2021 1462926    25C3832              
+R1     10k             R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R2     10k             R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R3     10k             R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R4     10k             R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R5     10k             R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R6     10k             R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R7     820             R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R8                     R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R9     10k             R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R10    10k             R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R11    10k             R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R12                    R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+R13                    R-US_R1206      R1206                   RESISTOR, American symbol                                                                                                         R          
+SERIAL 22-23-2041      22-23-2041      22-23-2041              .100" (2.54mm) Center Header - 4 Pin                                                        MOLEX 22-23-2041 1462920    38C0355              
+SPI                    22-23-2061      22-23-2061              .100" (2.54mm) Center Header - 6 Pin                                                        MOLEX 22-23-2061 1462922    27C1933              
+U$4    MOUNTINGHOLE2.5 MOUNTINGHOLE2.5 MOUNTINGHOLE_2.5_PLATED Mounting Hole                                                                       EXCLUDE                                                  
+U$5    MOUNTINGHOLE2.5 MOUNTINGHOLE2.5 MOUNTINGHOLE_2.5_PLATED Mounting Hole                                                                       EXCLUDE                                                  
+U$6    MOUNTINGHOLE2.5 MOUNTINGHOLE2.5 MOUNTINGHOLE_2.5_PLATED Mounting Hole                                                                       EXCLUDE                                                  
+U$7    MOUNTINGHOLE2.5 MOUNTINGHOLE2.5 MOUNTINGHOLE_2.5_PLATED Mounting Hole                                                                       EXCLUDE                                                  
+X1     22-23-2031      22-23-2031      22-23-2031              .100" (2.54mm) Center Header - 3 Pin                                                        MOLEX 22-23-2031 1462950    30C0862              
+X5     top side        PINHD-2X20      2X20                    PIN HEADER                                                                                                                                   
